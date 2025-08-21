@@ -1,11 +1,11 @@
 # sport_team
 <html>
-<title></title>
+<title>Типи змій</title>
 
 <body>
     <header>
     <h1>Типи змій</h1>
-  
+    
     </header>
 
     <main>
